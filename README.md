@@ -1,1 +1,6 @@
-# collage-demo
+# College-demo
+
+# Authors
+
+- Manish
+- Arnab
