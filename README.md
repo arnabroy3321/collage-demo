@@ -2,7 +2,7 @@
 
 # Authors
 
-- Manish
+
 - Arnab
 - Disha
 - Isha
